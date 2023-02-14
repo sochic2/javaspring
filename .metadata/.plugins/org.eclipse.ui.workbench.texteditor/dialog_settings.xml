@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="ka"/>
+		<item key="selection" value="maven"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="maven"/>
+			<item value="javax."/>
+			<item value="spring"/>
 			<item value="ka"/>
 			<item value="hikari"/>
 			<item value="maven-compiler"/>
@@ -15,14 +18,11 @@
 			<item value="plugin"/>
 			<item value="maven-war-plugin"/>
 			<item value="maven-compiler-plugin"/>
-			<item value="maven"/>
 			<item value="properties"/>
 			<item value="1.8"/>
 			<item value="1.18"/>
 			<item value="lombok"/>
 			<item value="junit"/>
-			<item value="spring-test"/>
-			<item value="log4j"/>
 		</list>
 		<list key="replacehistory">
 		</list>
